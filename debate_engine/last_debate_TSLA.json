@@ -1,0 +1,217 @@
+{
+  "evidence": {
+    "ticker": "TSLA",
+    "company_name": "Tesla, Inc.",
+    "sector": "Consumer Discretionary",
+    "sentiment": {
+      "avg_score": 0.268,
+      "std_score": 0.426,
+      "label": "Trending Positive",
+      "n_articles": 48,
+      "top_headlines": [
+        {
+          "title": "Nolet Wealth Management LLC Buys New Shares in Tesla, Inc. $TSLA - MarketBeat",
+          "provider": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2w1VVN0elNFOWgzdlpaT0xrb2xrY2FxTlZLVGNaOHB0RU9WSW9QdlY4VU1ldnJyQlpVZnNKeWRoYmptS3VPTDRWWEhNX1Q3NXhBSUNPMkVtWG9UYlJQczAtUUhJTGZhYUIzYVd2TnAyU2RyN3UzSHA2R0cyOWdxQ2pRNDZ6Y2VtM3RWRnIxdzVRTjFwTnNDakJaT0V1SUNtYURNSzE4bHN2aVVGa3NYRzJtaHJuZU9keWswNkhyOA?oc=5",
+          "score": 0.869
+        },
+        {
+          "title": "Axxcess Wealth Management LLC Purchases 11,726 Shares of Tesla, Inc. $TSLA - MarketBeat",
+          "provider": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeW5pd0R3QXA2UHVJUkVqVHdGdjJRWV9yUkxoOUNyUHVxbXk5QUFLN1BYVGx3QnVkdWdmajRpQ01ncE9ibUp3Yl9MMHVpbkU5dUdkQ3FUMk05RnFGb1IwRXloajNRdTlnYy1Rd2Nfd3lTYkdGSEJfQVh2WVVkSHN3bU1kMHE1OUI0TTRHaU5MVmFuS19ydDJzeEl1ekt1N08xdV9CcFYwdVZlczMtOF8zOFlqcTZMOGpjRnlXV0dhZmMyd0NOQ0wwODcyRQ?oc=5",
+          "score": 0.869
+        },
+        {
+          "title": "After SpaceX's stock market debut, its shares outpaced Tesla in growth rates - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+          "provider": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQnZwRlJnWEkzbnhzV190TlRKLVZLellIVzM2SWFXcVQzbVVqMTk3cDlra09wdkJ3ZDRuTUR5MzlmaXNEck1EaEgxZEhucmVOQ3FkZ2ZaNFVFVDBjcjVENFdMWnBwMzdTUlFPNjNXR0tUbGpsQ3ZyWVhJOFlBX0w2RzJaV1BrTG5lXzhHckJkcXlROVctOG1DU2xnZTB4Z9IBnAFBVV95cUxPNXhERU1iTWoyWDdocUVDMk14WlRQZThkMDlTVDNQVWhaWDJiVVNIckx6eU55c2R5Wl9wUTlPS1JXYnVGZjJLOExYaDlJZkI1V0VmVURQcUhjY3RtSnJBbXdVLWxBbHlVbUtBLUw3ZUV5YVpaM0pTaWt1WVFyRUlIc2VDS0lLYmpRUi1xWE9kbFZCNUNXbVRvZS1scFY?oc=5",
+          "score": 0.823
+        },
+        {
+          "title": "Tesla faces EU roadblock as Sweden urges ban on FSD tech over speed limit issues - Reuters - Seeking Alpha",
+          "provider": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNek52Y0M1WXk3STFvRWctcXNpa0xCdEJhbl9vUzZzelUzY3R6bnp4bjh0dDhndVdmT1FfR1RBcmRDZE5PTXBDd1hnaDlfUGN0TUVnWGdacGg3V2lySFAtNXJTYUx3aHhOVWRnMUp1dExvNmVwNGtwLWpMUElSSzNucmFoNGU5a3NyS0kwOEpobVdFeENnWTI1Rzk5Ml85RHdHQ3FsUXZjRVRNRk1HMnZjSGM4WElMd01LeGdTTzJVU3lCNFFuckVr?oc=5",
+          "score": -0.802
+        },
+        {
+          "title": "Tesla Stock Dips Overnight: US Demand Signals Weakness Ahead Of Closely Watched Q1 Delivery Print - Stocktwits",
+          "provider": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNUJfdzNwb2RwdU9hOENIX2dmaDg0SHZLaEZaOVNEV21YR0lLZkVRRFZQeDdEeDNhQ0NpQWNNbzYzeDM5LVZ0X2l4RUZ0SXN5M1d3WEJmbERXQW1kUjNhNHVkQTRRcDlic1B4TmtnZDFOcFMwSnB3V3FCREhMYkkwR2luNlRUczQ4R0ljZDdoUXh6djVxM0lUZmlqMHJxVDdGRTFzX1djRWVrUC1lbEcxVW1acEltSHp1SC1JMlhyWTE0dDc4cWJTWHpRNlg?oc=5",
+          "score": -0.765
+        }
+      ]
+    },
+    "sector_sentiment": {
+      "avg_score": 0.184,
+      "std_score": 0.434,
+      "label": "Trending Positive",
+      "n_articles": 60
+    },
+    "technical": {
+      "rsi": 8.1,
+      "atr": 31.657,
+      "atr_pct": 7.9,
+      "pct_change": -2.59,
+      "as_of": "2026-06-22"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "bull",
+      "roundLabel": 1,
+      "text": "Tesla, Inc. is currently experiencing positive news sentiment, with a VADER sentiment score of +0.27 based on 48 articles over the last three days. This indicates a generally favorable outlook among analysts and investors, which can drive stock interest and potentially lead to upward price momentum. Additionally, the Consumer Discretionary sector is also trending positively, with a sentiment score of +0.18 from 60 articles, suggesting a supportive environment for Tesla's performance.",
+      "citationType": "synthesis",
+      "citationLabel": "Positive news sentiment and sector mood",
+      "citationValue": "VADER sentiment +0.27 and sector mood +0.18",
+      "conviction": 63
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 1,
+      "text": "While there is a positive sentiment surrounding Tesla, it's important to note that this does not necessarily indicate robust demand. Recent headlines indicate that Tesla is facing potential roadblocks in the EU, with Sweden urging a ban on its Full Self-Driving technology due to speed limit issues. This regulatory uncertainty could hinder Tesla's growth prospects in important international markets.",
+      "citationType": "headline",
+      "citationLabel": "Tesla faces EU roadblock over FSD tech - Seeking Alpha",
+      "citationValue": "Tesla faces EU roadblock as Sweden urges ban on FSD tech over speed limit issues - Seeking Alpha",
+      "conviction": 62
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 2,
+      "text": "While regulatory challenges are a valid concern, the recent activity from wealth management firms suggests strong institutional interest in Tesla. For instance, Nolet Wealth Management LLC has recently purchased new shares in Tesla, reflecting confidence in the company's future despite potential hurdles. This kind of investment activity can indicate a belief in the stock's resilience and future growth potential.",
+      "citationType": "headline",
+      "citationLabel": "Wealth Management Purchases - MarketBeat",
+      "citationValue": "Nolet Wealth Management LLC Buys New Shares in Tesla, Inc. $TSLA - MarketBeat",
+      "conviction": 63
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 2,
+      "text": "While institutional investments may signal confidence, it's crucial to recognize the troubling signs of weakening demand. Recent reports indicate that Tesla's stock dipped due to US demand signals pointing to potential weaknesses ahead of the upcoming Q1 delivery print. This decline highlights concerns about the company's ability to maintain strong sales momentum, which could ultimately impact its stock performance.",
+      "citationType": "headline",
+      "citationLabel": "Tesla Stock Dips - Stocktwits",
+      "citationValue": "Tesla Stock Dips Overnight: US Demand Signals Weakness Ahead Of Closely Watched Q1 Delivery Print - Stocktwits",
+      "conviction": 62
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 3,
+      "text": "While there are concerns regarding potential demand weaknesses, it's important to note that recent investments from Axxcess Wealth Management, which purchased over 11,000 shares of Tesla, indicate ongoing institutional confidence in the stock. This suggests that despite short-term fluctuations, there is a belief in the company's long-term growth potential and resilience. Such backing from wealth management firms can act as a stabilizing force for the stock, countering negative perceptions stemming from demand signals.",
+      "citationType": "headline",
+      "citationLabel": "Wealth Management Purchases - MarketBeat",
+      "citationValue": "Axxcess Wealth Management LLC Purchases 11,726 Shares of Tesla, Inc. $TSLA - MarketBeat",
+      "conviction": 64
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 3,
+      "text": "While institutional investments may provide some level of confidence, they do not compensate for the broader concerns regarding Tesla's demand and performance. The recent sentiment analysis indicates a high dispersion in news sentiment, with a standard deviation of 0.43 across 48 articles. This suggests that while some narratives may be positive, there is significant uncertainty and mixed opinions about Tesla's outlook, which could lead to increased volatility and risk for investors.",
+      "citationType": "sentiment",
+      "citationLabel": "Sentiment dispersion",
+      "citationValue": "std 0.43 across 48 articles",
+      "conviction": 60
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 4,
+      "text": "While there is some sentiment dispersion indicating mixed opinions, the overall news sentiment remains positive, with 48 articles reflecting a trending positive outlook for Tesla. This suggests that, despite the uncertainty, a significant portion of the narrative is favorable, which can lead to renewed investor interest and potentially stabilize the stock. The positive sentiment can also attract more institutional and retail investors who may see this as an opportunity amidst the fluctuations.",
+      "citationType": "sentiment",
+      "citationLabel": "News sentiment (VADER)",
+      "citationValue": "+0.27 \u00b7 Trending Positive (48 articles, 3d window)",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 4,
+      "text": "While there is a positive sentiment reflected in the news articles, the reality is that Tesla is facing significant challenges that could impact its performance in the near term. Notably, Tesla's stock has been recently affected by reports of weakening demand signals in the US, indicating potential difficulties ahead of their Q1 delivery print. This suggests that despite some favorable narratives, the underlying demand issues could overshadow the positive sentiment and lead to increased volatility in the stock's price.",
+      "citationType": "risk",
+      "citationLabel": "Demand signals weakness ahead of Q1 delivery print",
+      "citationValue": "Tesla Stock Dips Overnight: US Demand Signals Weakness Ahead Of Closely Watched Q1 Delivery Print - Stocktwits",
+      "conviction": 55
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 5,
+      "text": "While the concerns regarding demand and performance are valid, the overall sentiment in the Consumer Discretionary sector remains positive, with a sentiment score of +0.18 from 60 articles. This broader positive mood suggests that Tesla is still positioned within a supportive environment that could help mitigate some of the negative impacts it is currently facing. Additionally, the fact that institutional investors continue to show interest in Tesla indicates a belief that the company can navigate through its challenges effectively, which may lead to a recovery in stock performance over time.",
+      "citationType": "sector",
+      "citationLabel": "Sector mood (Consumer Discretionary)",
+      "citationValue": "+0.18 \u00b7 Trending Positive (60 articles)",
+      "conviction": 58
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 5,
+      "text": "While the Consumer Discretionary sector sentiment is currently positive, it is important to recognize that Tesla's stock has recently dipped, reflecting significant investor concerns about demand. The fact that Tesla is facing regulatory challenges, such as the EU roadblock over its Full Self-Driving technology, adds another layer of uncertainty that could negatively impact future growth. This combination of weakening demand signals and regulatory hurdles suggests that the positive sentiment in the sector may not be enough to support Tesla's stock price in the near term.",
+      "citationType": "concession",
+      "citationLabel": "Regulatory challenges and demand concerns",
+      "citationValue": "Tesla faces EU roadblock as Sweden urges ban on FSD tech over speed limit issues - Seeking Alpha",
+      "conviction": 45
+    }
+  ],
+  "conviction": [
+    {
+      "turn": 0,
+      "bull": 50,
+      "bear": 50
+    },
+    {
+      "turn": 1,
+      "bull": 63,
+      "bear": 50
+    },
+    {
+      "turn": 2,
+      "bull": 63,
+      "bear": 62
+    },
+    {
+      "turn": 3,
+      "bull": 63,
+      "bear": 62
+    },
+    {
+      "turn": 4,
+      "bull": 63,
+      "bear": 62
+    },
+    {
+      "turn": 5,
+      "bull": 64,
+      "bear": 62
+    },
+    {
+      "turn": 6,
+      "bull": 64,
+      "bear": 60
+    },
+    {
+      "turn": 7,
+      "bull": 62,
+      "bear": 60
+    },
+    {
+      "turn": 8,
+      "bull": 62,
+      "bear": 55
+    },
+    {
+      "turn": 9,
+      "bull": 58,
+      "bear": 55
+    },
+    {
+      "turn": 10,
+      "bull": 58,
+      "bear": 45
+    }
+  ],
+  "verdict": {
+    "action": "SELL",
+    "confidence": 70,
+    "sizing": "Trim to 1.0% under-weight; avoid new entries",
+    "reasoning": [
+      "The bear agent effectively highlighted significant demand concerns, including recent reports of weakening US demand signals ahead of Q1 delivery prints, which could negatively impact Tesla's stock performance.",
+      "Regulatory challenges, particularly the EU roadblock regarding Tesla's Full Self-Driving technology, were emphasized as potential hurdles that could hinder growth, adding to the overall uncertainty.",
+      "Despite some positive sentiment and institutional interest, the high sentiment dispersion indicates mixed opinions and increased risk, suggesting that the positive narratives may not be sufficient to counterbalance the underlying challenges."
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "evidence": {
+    "ticker": "AAPL",
+    "company_name": "Apple Inc.",
+    "sector": "Technology",
+    "sentiment": {
+      "avg_score": 0.072,
+      "std_score": 0.427,
+      "label": "Neutral",
+      "n_articles": 60,
+      "top_headlines": [
+        {
+          "title": "Memory shortage crisis: Apple CEO confirms higher prices are on the way; chip stocks keep soaring - Fast Company",
+          "provider": "Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOUh6LTJheEpxZDlTN0l1V2o5M3hLQ2xJTjBhbkltUWxkOTB6Z1BXRVFScWNwVzlWNkV5cUpWX3M4WHZUWGo1TzVtTWJobTEyMmZET3k3RWgzUlF3MTJELVdrSHZsb3J1ZjFQcFdEOWw5b1NnTUZXXzZlM1VRc21IWEVWcXBkM1B1TXp4eUU2YWR5XzRNWDM3YkR0endWMHpZRGNN?oc=5",
+          "score": -0.904
+        },
+        {
+          "title": "Apple: Memory Crisis Should Not Unravel Its Advance (NASDAQ:AAPL) - Seeking Alpha",
+          "provider": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEgza0txQkhkd3VpYUo1cC1vS3pFRkJkWUZVdGhtZldsaUtNd1JpUmNwSkQ3OFBDZFYzTFdqMEs0aFUydG5HQ0FNRkQxaHhheU1sRFlDSDVoX3VkdWhMYzdSRENPNHkzTlU5Z3ZkNk5GNGpUUndLSFBQQURSUGtOX0xVQnBYdWJGN0l4SjFxN29wWXByVnc?oc=5",
+          "score": -0.848
+        },
+        {
+          "title": "ITC Fights Apple Bid to Rehear Ruling Upholding 2023 Watch Ban - Bloomberg Law News",
+          "provider": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVljd09LS2EzU0hiaUZTenEySkhDV0RBdmNLUG9CbjZ6ZFFuc21nUzRJWEUwWW5USGxWcmpxclozV2VVaGNvRnYyVW1lY2cxb0NiR21rMG03WW1XUmVvaXlVMmpkblp5YW1Hc0dzSXhPTTV4RlNlU0tXeGYwV1JrT2ZjZU1JNWhPbjI5VTE5bnlDbU12blQxdFlXc1FvZklh?oc=5",
+          "score": -0.84
+        },
+        {
+          "title": "INVICTUS PRIVATE WEALTH, LLC's Apple Inc(AAPL) Holding History - GuruFocus",
+          "provider": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy1rZm1aYnBGT3ZfMncxN1ZqN3VYQW9oQkEzeUZSRDNaQkRXektNVXJiUFRPVXp2QUxrYkxTZm56OTRsLXVEYXhjSFJuNEx4U0xvQ0JvN3Z4a3Z5RERoRS1WNDRSdXFwTmlkU1hmSXRZUy02WHFTYXZMVDVzSFc5NExwT3k4ZEk?oc=5",
+          "score": 0.835
+        },
+        {
+          "title": "Intel: Priced For Perfection Amid Game-Changing Apple Deal (NASDAQ:INTC) - Seeking Alpha",
+          "provider": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2wzdlpReUJCaVNFSHVyN2hacXI3LUZ6YTB1dFhndVgwTUZKV1I5bWF0bGl0Q043WE5Va3ZzUlp6RWZEVGFDRU5wZzE5d3FITmx4M0JSeTdabG9XWkhheFdxcW1vRlVnak5nUjlLbDFkYnBDRU1FR1JCVWFVZF9lUHRLUzJoSEZlVkE1NUlueHpReklSdFZSU09ieG85dkU?oc=5",
+          "score": 0.813
+        }
+      ]
+    },
+    "sector_sentiment": {
+      "avg_score": 0.199,
+      "std_score": 0.435,
+      "label": "Trending Positive",
+      "n_articles": 60
+    },
+    "technical": {
+      "rsi": 20.2,
+      "atr": 11.359,
+      "atr_pct": 3.81,
+      "pct_change": 0.54,
+      "as_of": "2026-06-22"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "bull",
+      "roundLabel": 1,
+      "text": "Despite facing some challenges, Apple Inc. (AAPL) has a neutral news sentiment of +0.07 across 60 articles, suggesting that the overall perception of the company is stable and not overly negative at this time. This sentiment indicates a lack of panic among investors and analysts, which can often be a precursor to recovery and growth. Additionally, the technology sector mood is trending positive at +0.20, reflecting a broader optimism that could benefit Apple as part of this sector. Collectively, these signals present a case for potential upward momentum in AAPL's stock performance.",
+      "citationType": "synthesis",
+      "citationLabel": "News sentiment and Sector mood",
+      "citationValue": "Neutral news sentiment (VADER) +0.07; Technology sector mood +0.20",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 1,
+      "text": "While the overall news sentiment may appear neutral, the sentiment dispersion of 0.43 across the 60 articles indicates significant disagreement among analysts and investors about Apple's outlook. This lack of consensus can lead to increased volatility, which is concerning for potential investors. Furthermore, with reports confirming higher prices due to a memory shortage crisis, as noted in a Fast Company headline, there are valid concerns about the impact on consumer demand and Apple's long-term sales growth.",
+      "citationType": "sentiment",
+      "citationLabel": "Sentiment dispersion",
+      "citationValue": "std 0.43 across 60 articles",
+      "conviction": 60
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 2,
+      "text": "While the sentiment dispersion does indicate some disagreement among analysts, it is essential to consider the broader context of the technology sector, which is trending positively with a sentiment score of +0.20. This sector momentum can provide a supportive backdrop for Apple, even amid individual stock volatility. Additionally, the headlines regarding the memory crisis and higher prices should not overshadow Apple's resilience; as a Seeking Alpha headline suggests, the memory crisis should not unravel Apple's advance, highlighting the company's ability to navigate challenges effectively.",
+      "citationType": "headline",
+      "citationLabel": "Seeking Alpha on Memory Crisis",
+      "citationValue": "Memory Crisis Should Not Unravel Its Advance (NASDAQ:AAPL)",
+      "conviction": 63
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 2,
+      "text": "While the broader technology sector may be trending positively, it's important to note that Apple is facing significant legal challenges, as highlighted by a Bloomberg Law News article regarding the ITC's decision to uphold a 2023 watch ban. Such legal hurdles can create uncertainty and hinder Apple's market position, impacting investor confidence. Additionally, the negative sentiment associated with these legal issues, reflected in the sentiment score of -0.84, further underscores the risks that Apple currently faces.",
+      "citationType": "headline",
+      "citationLabel": "ITC Ruling on Watch Ban",
+      "citationValue": "ITC Fights Apple Bid to Rehear Ruling Upholding 2023 Watch Ban - Bloomberg Law News (sentiment -0.84)",
+      "conviction": 60
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 3,
+      "text": "Although legal challenges can create uncertainty, it's important to highlight that investor sentiment toward Apple remains relatively stable overall. The recent headline from GuruFocus shows a positive sentiment of +0.83 regarding Apple's holding history, indicating that there are still strong supporters in the market who believe in Apple's long-term viability. This positive sentiment reflects a level of confidence that can help offset the concerns raised by legal issues and contribute to a more favorable outlook for AAPL.",
+      "citationType": "headline",
+      "citationLabel": "Positive sentiment on Holding History: GuruFocus",
+      "citationValue": "+0.83",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 3,
+      "text": "While there may be positive sentiment from some investors, the broader context shows that Apple is grappling with significant challenges. A recent Fast Company headline confirms that a memory shortage crisis is leading to higher prices, which could dampen consumer demand and negatively impact sales growth. This situation raises concerns about Apple's ability to maintain its market position amid rising costs and a potentially less favorable consumer response.",
+      "citationType": "headline",
+      "citationLabel": "Memory shortage crisis: Higher prices on the way - Fast Company",
+      "citationValue": "Memory shortage crisis: Apple CEO confirms higher prices are on the way; chip stocks keep soaring - Fast Company",
+      "conviction": 62
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 4,
+      "text": "While concerns about rising prices due to the memory shortage are valid, it's important to note that the technical signals for AAPL are showing potential for recovery. The latest technical analysis indicates an RSI of 20.2, suggesting that the stock is currently oversold and may be due for a rebound. This technical positioning, combined with the overall trend in the technology sector, supports the notion that AAPL could see upward momentum despite current challenges.",
+      "citationType": "technical",
+      "citationLabel": "Technical signal (Polygon, weekly)",
+      "citationValue": "RSI 20.2 \u00b7 ATR-implied weekly volatility 3.8% \u00b7 latest weekly change +0.5%",
+      "conviction": 66
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 4,
+      "text": "While there are indications of potential recovery in AAPL's technical signals, the broader implications of the memory shortage crisis cannot be overlooked. The rising costs confirmed by the Fast Company headline suggest that consumer demand may wane as prices increase, which ultimately threatens Apple's sales growth and market position. Additionally, the sentiment dispersion of 0.43 indicates significant disagreement among analysts, reflecting a precarious outlook for investors. Given these substantial challenges, my confidence in AAPL's current position has diminished.",
+      "citationType": "concession",
+      "citationLabel": "Memory shortage crisis and sentiment dispersion",
+      "citationValue": "Memory shortage crisis: Higher prices on the way - Fast Company; Sentiment dispersion: std 0.43 across 60 articles",
+      "conviction": 45
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 5,
+      "text": "While the concerns regarding rising prices and sentiment dispersion have merit, it's crucial to recognize that the broader technology sector sentiment remains positive at +0.20. This optimism can create a favorable backdrop for AAPL, potentially mitigating some of the risks posed by individual challenges. Furthermore, the technical signals indicate a potential for recovery, and the market's mixed sentiment reflects a healthy debate, which can often lead to more informed investor decisions moving forward.",
+      "citationType": "synthesis",
+      "citationLabel": "Broader Sector Sentiment and Technical Signals",
+      "citationValue": "Positive Technology Sector Sentiment +0.20 and Technical Recovery Signals",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 5,
+      "text": "While the debate has highlighted some positive aspects regarding AAPL, the persistent challenges posed by the memory shortage crisis and legal hurdles cannot be ignored. The negative sentiment surrounding the memory crisis and rising prices could significantly dampen consumer demand, as suggested by the headline from Fast Company, indicating that this situation poses a tangible risk to Apple's future sales growth. Therefore, despite some recovery signals, the overall outlook for AAPL remains precarious, leading me to reassess my confidence in its current position.",
+      "citationType": "concession",
+      "citationLabel": "Memory shortage crisis and consumer demand",
+      "citationValue": "Memory shortage crisis: Apple CEO confirms higher prices are on the way; chip stocks keep soaring - Fast Company",
+      "conviction": 42
+    }
+  ],
+  "conviction": [
+    {
+      "turn": 0,
+      "bull": 50,
+      "bear": 50
+    },
+    {
+      "turn": 1,
+      "bull": 62,
+      "bear": 50
+    },
+    {
+      "turn": 2,
+      "bull": 62,
+      "bear": 60
+    },
+    {
+      "turn": 3,
+      "bull": 63,
+      "bear": 60
+    },
+    {
+      "turn": 4,
+      "bull": 63,
+      "bear": 60
+    },
+    {
+      "turn": 5,
+      "bull": 62,
+      "bear": 60
+    },
+    {
+      "turn": 6,
+      "bull": 62,
+      "bear": 62
+    },
+    {
+      "turn": 7,
+      "bull": 66,
+      "bear": 62
+    },
+    {
+      "turn": 8,
+      "bull": 66,
+      "bear": 45
+    },
+    {
+      "turn": 9,
+      "bull": 62,
+      "bear": 45
+    },
+    {
+      "turn": 10,
+      "bull": 62,
+      "bear": 42
+    }
+  ],
+  "verdict": {
+    "action": "SELL",
+    "confidence": 70,
+    "sizing": "Trim to 1.0% under-weight; avoid new entries",
+    "reasoning": [
+      "The bear agent effectively highlighted significant risks, particularly the memory shortage crisis leading to higher prices, which could dampen consumer demand and impact sales growth.",
+      "Legal challenges, such as the ITC ruling on the watch ban, were emphasized, creating uncertainty that could further hinder Apple's market position.",
+      "Despite some positive sentiment and technical signals from the bull agent, the bear's arguments regarding the tangible risks to Apple's future sales growth and the sentiment dispersion suggest a precarious outlook."
+    ]
+  }
+}

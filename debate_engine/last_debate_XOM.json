@@ -1,0 +1,217 @@
+{
+  "evidence": {
+    "ticker": "XOM",
+    "company_name": "Exxon Mobil Corp.",
+    "sector": "Energy",
+    "sentiment": {
+      "avg_score": 0.193,
+      "std_score": 0.393,
+      "label": "Trending Positive",
+      "n_articles": 35,
+      "top_headlines": [
+        {
+          "title": "Exxon Mobil Shares Slide With Oil, XOM Off 6% for Holiday Week - TechStock\u00b2",
+          "provider": "TechStock\u00b2",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZlVrZXFyU3NlSDR2bHZ6VEZwMUJTRnZteHB6N21xcnh0dDdjb2ZsQXNGUTRJUkoteUYwZHpLNFVvdVJCaVRUMUQwMWZTeFUwY29YQzYwVGhTSGpGN1pwT25mdXZDWFd0NHpHcjFfRFhXbzVnQWFCTmpKU3kxcDM5ZXdjREljeUVH?oc=5",
+          "score": 0.832
+        },
+        {
+          "title": "Exxon Mobil Corp (XOM) Risk Assessment: Volatility, Financial Risk & Investment Risk - TradingKey",
+          "provider": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qaE9ncjgteVN2ZHkzbGwwMGgzMkVya21aakV4VTVMQjRScHVFWWNIUkpSSGx3RTc3RkZpb0tuUVF3czhXQzB3aTdvWDlDMXMtbmt1X1plMTlSdnFGUVJCSTJGYVNvdjhHZ1FFYU52LWwzYmdNY3c?oc=5",
+          "score": -0.818
+        },
+        {
+          "title": "Why ExxonMobil\u2019s Synergy Supreme+ premium fuel tries to justify the extra cents - AD HOC NEWS",
+          "provider": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHhzVEhyTEd3dlB4WkdOTW5hVG54WmNqS0gwbEZyLTBvUFlSODFxcHZWSnJxSjR1bGxoWExSNUowZXNpTm9NbjZqTHlSRGlTUTVhOW4yYTc1SG9LcDBfQXljTVpFejBpWjVjSlYzRVVGb21Wd3dHRWlSV3hESzdDWTBEYnFoTDlmV2N2aXB1bTNwd19NcXNlQXlCaVRKVG91S08tWTVTRC1LS0hYczJ3Y0VINEpFTDlTdU01VC1fY2kzZnM?oc=5",
+          "score": 0.802
+        },
+        {
+          "title": "Trump Unveils Iran Peace Framework As Questions Remain Over Long-Term Stability - Benzinga",
+          "provider": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWDhSWnQ3aEZ2RVo1UTE5Rzcwb3VneXg5UnlBVjFwTHh6MElKRXZFaTNwNGt5d25RQ2UxSTRXR1psb2NnSEItXzRQU1QxWXgtd3EyVl9nU0M4VGJiVmt5OVktVFpCZUhLdHlyazRQZXNrTmtZbE0xdDlwaW1EVnhrdnRFTmE0bGFVNFJuNE9VWk5YbnFLREtGWGJkeEJyeVFsbHY4X0lQYlZtMjhFWkxVcUZkem83aUZmOFVqWVN6WGs4cjNlcVJValRoYlNJdw?oc=5",
+          "score": 0.791
+        },
+        {
+          "title": "Exxon Mobil Shares - Thursday chart picture and energy sector backdrop - AD HOC NEWS",
+          "provider": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObGIwV3RqQ1A0dHRfRjR1dGdONDV2YTVJb09IUDlWZ3NTdGFERnFpUi1jMmRZbUk5MmJwTEVNdUxNZHpFZUxxR1NEektsYktZZ3JvMmQwcndjU0x4anFLMU9DeFRIU0lPVFp4NjFadmlXUl81aElmaTdMSDNsSUZIVktKTElRdUJ4eUNpeUpGNHZhUTdkY0hEa0pjRWY0TGxKalNwQ3UtNmtrM01hZG9RbWVBSUR2dFMydW9SUmFSeHVhZkNNNXc?oc=5",
+          "score": 0.765
+        }
+      ]
+    },
+    "sector_sentiment": {
+      "avg_score": -0.086,
+      "std_score": 0.434,
+      "label": "Neutral",
+      "n_articles": 60
+    },
+    "technical": {
+      "rsi": 8.1,
+      "atr": 8.829,
+      "atr_pct": 6.41,
+      "pct_change": -2.21,
+      "as_of": "2026-06-22"
+    }
+  },
+  "turns": [
+    {
+      "speaker": "bull",
+      "roundLabel": 1,
+      "text": "Exxon Mobil Corp. (XOM) is currently experiencing a positive sentiment trend, supported by a VADER sentiment score of +0.19 across 35 articles. This suggests that the market sentiment around XOM is turning favorable, which can drive investor interest and potentially lead to price appreciation. Furthermore, the dispersion of sentiment is relatively low at 0.39, indicating a consensus among analysts regarding the company's outlook.",
+      "citationType": "sentiment",
+      "citationLabel": "News sentiment (VADER)",
+      "citationValue": "+0.19 \u00b7 Trending Positive (35 articles, 3d window)",
+      "conviction": 60
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 1,
+      "text": "While there may be a positive sentiment score, it's crucial to note the recent volatility in Exxon Mobil's stock. The technical signal shows an RSI of 8.1, suggesting the stock is in an overbought condition, which typically precedes a price correction. This indicates that despite any short-term positive sentiment, the stock may be poised for a downturn as investors reassess their positions.",
+      "citationType": "technical",
+      "citationLabel": "Technical signal (Polygon, weekly)",
+      "citationValue": "RSI 8.1",
+      "conviction": 60
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 2,
+      "text": "While the technical signal indicates some potential for volatility, it\u2019s important to contextualize that within a broader positive sentiment landscape. The overall market mood for Exxon Mobil is still trending positively, as indicated by a sentiment score of +0.19, which reflects optimism among analysts and investors. Additionally, the underlying fundamentals of the energy sector remain robust, suggesting that any corrections could be short-lived as demand and investor confidence persist.",
+      "citationType": "synthesis",
+      "citationLabel": "Overall market sentiment and sector mood",
+      "citationValue": "Positive sentiment at +0.19 despite technical volatility",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 2,
+      "text": "Despite the overall positive sentiment, the recent news highlights significant concerns regarding Exxon Mobil's stock performance. In particular, reports indicate a troubling risk assessment with potential financial and investment risks associated with XOM, which could undermine investor confidence and lead to further volatility. This suggests that even if sentiment appears favorable, underlying risks may not be adequately priced in, leading to potential declines in share value.",
+      "citationType": "headline",
+      "citationLabel": "Exxon Mobil Corp (XOM) Risk Assessment: Volatility, Financial Risk & Investment Risk - TradingKey",
+      "citationValue": "sentiment -0.82",
+      "conviction": 62
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 3,
+      "text": "While your concerns about financial and investment risks are valid, we cannot overlook the optimistic developments in Exxon's product offerings. Recent news highlights the introduction of ExxonMobil\u2019s Synergy Supreme+ premium fuel, which is aimed at justifying its higher price point and enhancing customer loyalty. This innovation could bolster revenue streams, reflecting a proactive approach to market challenges and potentially stabilizing the stock's performance despite volatility.",
+      "citationType": "headline",
+      "citationLabel": "ExxonMobil\u2019s Synergy Supreme+ premium fuel introduction",
+      "citationValue": "ExxonMobil\u2019s Synergy Supreme+ premium fuel tries to justify the extra cents - AD HOC NEWS",
+      "conviction": 62
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 3,
+      "text": "While the introduction of new products like Synergy Supreme+ may seem promising, it is overshadowed by the broader market conditions impacting Exxon Mobil. Recent headlines indicate that the company's shares have slid significantly, with a reported drop of 6% over the holiday week, reflecting investor concerns that could further erode confidence and share value. This trend suggests that even innovative offerings may not be enough to counteract negative market sentiment and volatility looming over the stock.",
+      "citationType": "headline",
+      "citationLabel": "Exxon Mobil Shares Slide With Oil - TechStock\u00b2",
+      "citationValue": "Exxon Mobil Shares Slide With Oil, XOM Off 6% for Holiday Week - TechStock\u00b2",
+      "conviction": 62
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 4,
+      "text": "While the recent drop in share price is concerning, it\u2019s important to consider the broader context of the energy sector, which remains fundamentally strong. The sector mood is currently neutral, with a sentiment score of -0.09 based on 60 articles, indicating that many analysts are not overly pessimistic about the overall market conditions affecting Exxon Mobil. This stabilization in sector sentiment suggests that XOM could rebound as market conditions improve, especially if investor confidence is re-established amidst ongoing developments in energy demand.",
+      "citationType": "sector",
+      "citationLabel": "Sector mood (Energy)",
+      "citationValue": "-0.09 \u00b7 Neutral (60 articles)",
+      "conviction": 63
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 4,
+      "text": "While it is true that the energy sector mood is neutral, it is important to highlight that this does not mitigate the specific challenges facing Exxon Mobil. The recent volatility and significant drop in share price indicate that investor sentiment towards XOM is fragile, and any further adverse developments could exacerbate the situation. Moreover, with an overall sentiment dispersion of 0.39, it shows a lack of consensus among analysts, which raises questions about the reliability of bullish projections for the stock's recovery.",
+      "citationType": "synthesis",
+      "citationLabel": "Sentiment dispersion across analysts",
+      "citationValue": "0.39 indicating a lack of consensus",
+      "conviction": 45
+    },
+    {
+      "speaker": "bull",
+      "roundLabel": 5,
+      "text": "I acknowledge the concerns regarding the fragile investor sentiment towards Exxon Mobil, particularly in light of recent volatility and the lack of consensus among analysts. However, it is important to note that the sentiment surrounding Exxon is still trending positively with a significant number of articles highlighting a favorable narrative, as indicated by a sentiment score of +0.19 across recent coverage. This suggests that despite the recent challenges, there remains a foundation of optimism that could support a recovery in XOM's stock price as conditions stabilize.",
+      "citationType": "sentiment",
+      "citationLabel": "News sentiment (VADER)",
+      "citationValue": "+0.19",
+      "conviction": 58
+    },
+    {
+      "speaker": "bear",
+      "roundLabel": 5,
+      "text": "I acknowledge the ongoing positive sentiment that has been highlighted, but the recent 6% drop in Exxon Mobil's shares indicates that this optimism may not be reflective of the underlying market realities. The volatility and significant decline raise serious questions about the sustainability of investor confidence, which could lead to further declines in share value. As such, while there may be a narrative of recovery, the current conditions suggest a more cautious approach is warranted.",
+      "citationType": "concession",
+      "citationLabel": "Exxon Mobil Shares Slide With Oil",
+      "citationValue": "XOM Off 6% for Holiday Week - TechStock\u00b2",
+      "conviction": 45
+    }
+  ],
+  "conviction": [
+    {
+      "turn": 0,
+      "bull": 50,
+      "bear": 50
+    },
+    {
+      "turn": 1,
+      "bull": 60,
+      "bear": 50
+    },
+    {
+      "turn": 2,
+      "bull": 60,
+      "bear": 60
+    },
+    {
+      "turn": 3,
+      "bull": 62,
+      "bear": 60
+    },
+    {
+      "turn": 4,
+      "bull": 62,
+      "bear": 62
+    },
+    {
+      "turn": 5,
+      "bull": 62,
+      "bear": 62
+    },
+    {
+      "turn": 6,
+      "bull": 62,
+      "bear": 62
+    },
+    {
+      "turn": 7,
+      "bull": 63,
+      "bear": 62
+    },
+    {
+      "turn": 8,
+      "bull": 63,
+      "bear": 45
+    },
+    {
+      "turn": 9,
+      "bull": 58,
+      "bear": 45
+    },
+    {
+      "turn": 10,
+      "bull": 58,
+      "bear": 45
+    }
+  ],
+  "verdict": {
+    "action": "SELL",
+    "confidence": 70,
+    "sizing": "Trim to 1.0% under-weight; avoid new entries",
+    "reasoning": [
+      "The bear agent effectively highlighted significant risks, including a troubling risk assessment that points to financial and investment risks associated with XOM, which could undermine investor confidence.",
+      "Despite some positive sentiment, the recent 6% drop in share price indicates a fragile investor sentiment that may not support a recovery, raising concerns about the sustainability of any bullish projections.",
+      "The overall conviction trajectory shows the bear agent maintaining a consistent stance on caution, while the bull agent's confidence declined towards the end, suggesting a weakening case for buying."
+    ]
+  }
+}
