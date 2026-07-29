@@ -36,7 +36,7 @@ app = FastAPI(title="PulseShiftAI Debate Arena API")
 # elsewhere (e.g. add your deployed URL before the Director pitch).
 app.add_middleware(
     CORSMiddleware,
-    allow_origin_regex=r"http://localhost:\d+",
+    allow_origin_regex=r"https?://(localhost:\d+|.*\.vercel\.app)",
     allow_methods=["*"],
     allow_headers=["*"],
 )
